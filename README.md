@@ -19,9 +19,8 @@
 ## 👽 Other
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
-### 😂 Random Dev Meme
+### 🐈 Finally, check out this cute kitty
 <!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
-*Oops.. this feature is comming soon. But before that, check out this cute kitty*  
 
 ![cute-cat](https://media.tenor.com/L5wtm55bKhQAAAAM/cute-cat.gif)
 
