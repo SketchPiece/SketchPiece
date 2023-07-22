@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, Sketch Piece is here 🚀</h1>
-<h3 align="center">A user-friendly Javascript FullStack Developer 🤓</h3>
+<h3 align="center">A user-friendly JavaScript FullStack Developer 🤓</h3>
 
 </p>
 
