@@ -1,25 +1,25 @@
 ### Hi, I'm Andrew 👋
 
-I build tools for working with AI coding agents, and the iOS apps I use them to make.
+I build experiences, not just apps.
 
-Full-stack TypeScript by trade, Swift on the side. Lately most of my time goes into the space between a developer and their agents: where the agent runs, how you see what it did, and how its work gets onto a real device.
+I care a lot about how things feel to use: the tap that has to land the first time, the menu that shouldn't take three tries, the screen that shouldn't look like every other generated UI. I spend a lot of time studying what makes an interface feel made by someone, and then I test it on a real device, not just a simulator.
 
-#### What I'm building
+Lately I've been building a small ecosystem of my own apps that talk to each other across devices. My Mac is the hub, my phone is the remote, and the agents run in between.
 
-| | |
-|---|---|
-| **[Helm](https://github.com/SketchPiece/t3code)** | My distribution of [T3 Code](https://github.com/pingdotgg/t3code), a desktop GUI for coding agents: orchestration, delegated subagents, scheduled runs, worktrees. |
-| **[Helm Mobile](https://github.com/SketchPiece/helm-mobile)** | Native iPhone and iPad client for Helm. Start, follow and steer agent threads from your phone. SwiftUI, Liquid Glass, widgets. |
-| **[Sideshelf](https://github.com/SketchPiece/Sideshelf)** | A personal App Store for your own iOS apps. One command builds an Xcode project and installs it on your iPhone over the air, from anywhere on your tailnet. |
-| **[draftwall](https://github.com/SketchPiece/draft-wall)** | Design canvases for agents: HTML boards on a zoomable wall, with sticky-note feedback the agent reads back. |
-| **[mail-triage](https://github.com/SketchPiece/mail-triage)** | An MCP server that sorts a Gmail inbox so an agent can tell you what actually needs you. |
-| **[ServerMode](https://github.com/SketchPiece/ServerMode)** | A menu bar switch that turns a MacBook into an always-on server when it's plugged in with the lid closed. |
+#### One ecosystem, many devices
 
-#### Client work
+- **[Helm](https://github.com/SketchPiece/t3code)** is my fork of T3 Code, a desktop app for coding agents. It's the hub everything else connects to.
+- **[Helm Mobile](https://github.com/SketchPiece/helm-mobile)** puts Helm in my pocket. It's a native SwiftUI app for iPhone and iPad: drafts follow me between Mac and phone, the phone pairs with an AirPlay-style code, I can dictate prompts, and the Mac's screen streams to the phone with its cursor, sound and clipboard.
+- **[Sideshelf](https://github.com/SketchPiece/Sideshelf)** gets what I build onto my phone. One command, and a fresh build of any of my iOS apps installs over the air from anywhere on my tailnet.
+- **[draftwall](https://github.com/SketchPiece/draft-wall)** is where design happens. Agents draw mockups on a zoomable wall, I leave sticky notes from my laptop or phone, and the agent reads them back.
+- **[mail-triage](https://github.com/SketchPiece/mail-triage)** lets my assistants answer "anything important in my mail?" without me opening an inbox.
+- **[ServerMode](https://github.com/SketchPiece/ServerMode)** keeps it all running: a menu bar switch that turns a MacBook into an always-on server with the lid closed.
+
+#### For clients
 
 - **[wellskin.ca](https://www.wellskin.ca)**: website for a skin clinic
 - **[FlowArc Studio](https://flow-arc.vercel.app)**: studio website
 
-#### Stack
+#### Tools I reach for
 
-TypeScript · React · Next.js · Node · Swift · SwiftUI · Rust · Postgres · Vercel · MCP · Claude Code
+Swift · SwiftUI · TypeScript · React · Next.js · Node · Rust · Postgres · Tailscale · MCP · Claude Code
