@@ -12,6 +12,8 @@ Lately I've been building a small ecosystem of my own apps that talk to each oth
 - **[Helm Mobile](https://github.com/SketchPiece/helm-mobile)** puts Helm in my pocket. It's a native SwiftUI app for iPhone and iPad: drafts follow me between Mac and phone, the phone pairs with an AirPlay-style code, I can dictate prompts, and the Mac's screen streams to the phone with its cursor, sound and clipboard.
 - **[Sideshelf](https://github.com/SketchPiece/Sideshelf)** gets what I build onto my phone. One command, and a fresh build of any of my iOS apps installs over the air from anywhere on my tailnet.
 - **[draftwall](https://github.com/SketchPiece/draft-wall)** is where design happens. Agents draw mockups on a zoomable wall, I leave sticky notes from my laptop or phone, and the agent reads them back.
+- **[Volna](https://github.com/SketchPiece/volna)** is a voice assistant on my iPhone that answers like a phone call. It can check my mail through mail-triage and hand coding tasks to Helm on my Mac.
+- **[Twist](https://github.com/SketchPiece/Twist)** is a focus app built around a kitchen-timer dial. Twist it on the iPhone and every app except a short allowlist locks until time runs out. The same dial locks the whole Mac.
 - **[mail-triage](https://github.com/SketchPiece/mail-triage)** lets my assistants answer "anything important in my mail?" without me opening an inbox.
 - **[ServerMode](https://github.com/SketchPiece/ServerMode)** keeps it all running: a menu bar switch that turns a MacBook into an always-on server with the lid closed.
 
