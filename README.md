@@ -1,27 +1,25 @@
 ### Hi, I'm Andrew 👋
 
-I build experiences, not just apps.
+I make apps for iPhone and Mac, and I spend most of the time on how they feel to use.
 
-I care a lot about how things feel to use: the tap that has to land the first time, the menu that shouldn't take three tries, the screen that shouldn't look like every other generated UI. I spend a lot of time studying what makes an interface feel made by someone, and then I test it on a real device, not just a simulator.
+I didn't start as a designer. In 2024 the portal at my university annoyed me enough that I opened Figma for the first time, redrew about a hundred service icons by hand, built the redesign and pitched it to the university. That's [Better KPU](https://github.com/SketchPiece/better-kpu), and its README tells the whole story. I've been working the same way since: notice what gets in the way, then fix it and check the fix on a real device.
 
-Lately I've been building a small ecosystem of my own apps that talk to each other across devices. My Mac is the hub, my phone is the remote, and the agents run in between.
+These days most of what I build are my own apps, and they work together. The Mac does the heavy lifting, and the phone is how I reach it from anywhere.
 
-#### One ecosystem, many devices
+#### What I'm building
 
-- **[Helm](https://github.com/SketchPiece/t3code)** is my fork of T3 Code, a desktop app for coding agents. It's the hub everything else connects to.
-- **[Helm Mobile](https://github.com/SketchPiece/helm-mobile)** puts Helm in my pocket. It's a native SwiftUI app for iPhone and iPad: drafts follow me between Mac and phone, the phone pairs with an AirPlay-style code, I can dictate prompts, and the Mac's screen streams to the phone with its cursor, sound and clipboard.
-- **[Sideshelf](https://github.com/SketchPiece/Sideshelf)** gets what I build onto my phone. One command, and a fresh build of any of my iOS apps installs over the air from anywhere on my tailnet.
-- **[draftwall](https://github.com/SketchPiece/draft-wall)** is where design happens. Agents draw mockups on a zoomable wall, I leave sticky notes from my laptop or phone, and the agent reads them back.
-- **[Volna](https://github.com/SketchPiece/volna)** is a voice assistant on my iPhone that answers like a phone call. It can check my mail through mail-triage and hand coding tasks to Helm on my Mac.
-- **[Twist](https://github.com/SketchPiece/Twist)** is a focus app built around a kitchen-timer dial. Twist it on the iPhone and every app except a short allowlist locks until time runs out. The same dial locks the whole Mac.
-- **[mail-triage](https://github.com/SketchPiece/mail-triage)** lets my assistants answer "anything important in my mail?" without me opening an inbox.
-- **[ServerMode](https://github.com/SketchPiece/ServerMode)** keeps it all running: a menu bar switch that turns a MacBook into an always-on server with the lid closed.
+- **[Twist](https://github.com/SketchPiece/Twist)**: a focus timer with a kitchen-timer dial. Turn it, and every app on the iPhone except a short allowlist locks until time runs out. The same dial locks the Mac.
+- **[Volna](https://github.com/SketchPiece/volna)**: a voice assistant you call like a person. It picks up like a phone call and can check my mail or hand a coding task to my Mac.
+- **[Helm](https://github.com/SketchPiece/t3code)** and **[Helm Mobile](https://github.com/SketchPiece/helm-mobile)**: my fork of T3 Code, a desktop app for coding agents, and a native iPhone and iPad app for it. I start agents from the phone, see their work, and can open the Mac's screen right there.
+- **[Sideshelf](https://github.com/SketchPiece/Sideshelf)**: one command puts a fresh build of any of my apps on my iPhone, wherever I am.
+- **[draftwall](https://github.com/SketchPiece/draft-wall)**: a wall for design mockups. Agents put screens on it, I leave sticky notes, and they read them back.
+- **[mail-triage](https://github.com/SketchPiece/mail-triage)** and **[ServerMode](https://github.com/SketchPiece/ServerMode)**: smaller pieces. One sorts my inbox for the assistants, the other keeps a MacBook running as a server with the lid closed.
 
 #### For clients
 
 - **[wellskin.ca](https://www.wellskin.ca)**: website for a skin clinic
 - **[FlowArc Studio](https://flow-arc.vercel.app)**: studio website
 
-#### Tools I reach for
+#### Tools
 
-Swift · SwiftUI · TypeScript · React · Next.js · Node · Rust · Postgres · Tailscale · MCP · Claude Code
+Swift · SwiftUI · TypeScript · React · Next.js · Node · Rust · Postgres · Figma
