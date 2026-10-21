@@ -5,7 +5,7 @@
 
 ### Hi, I'm Andrew 👋
 
-I build experiences. Sometimes that's a website, sometimes an iPhone app, a backend, a menu bar utility or a tool for AI agents. The platform changes; what I care about stays the same: how the thing feels to use.
+Sometimes that's a website, sometimes an iPhone app, a backend, a menu bar utility or a tool for AI agents. The platform changes; what I care about stays the same: how the thing feels to use.
 
 I'm curious about technology and like trying new things, but I keep coming back to the small details that make something pleasant to use, and to interfaces that don't look like every other one.
 
