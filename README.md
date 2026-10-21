@@ -23,7 +23,7 @@ Lately I've been connecting my projects into one system, very much inspired by h
 
 #### Before AI
 
-- **[FlowArc Studio](https://flow-arc.vercel.app)**: website for the small studio I ran
+- **[FlowArc Studio](https://github.com/SketchPiece/flow-arc)**: website for the small studio I co-founded
 
 #### Tools
 
