@@ -22,7 +22,8 @@ Lately I've been connecting my projects into one system, very much inspired by h
 
 #### Before AI
 
-- **[FlowArc Studio](https://github.com/SketchPiece/flow-arc)**: website for the small studio I co-founded
+- <img src="assets/icons/better-kpu.png" width="20" height="20" align="top">&nbsp;**[Better KPU](https://github.com/SketchPiece/better-kpu)**: a redesign of my university's service portal that I designed, built and pitched as a student.
+- **[FlowArc Studio](https://github.com/SketchPiece/flow-arc)**: website for the small studio I co-founded, designed in Figma and built by hand with Astro. [Live site](https://flow-arc.vercel.app).
 
 #### Tools
 
