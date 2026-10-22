@@ -23,8 +23,7 @@ Lately I've been connecting my projects into one system, very much inspired by h
 #### Before AI
 
 - <img src="assets/icons/better-kpu.png" width="20" height="20" align="top">&nbsp;**[Better KPU](https://github.com/SketchPiece/better-kpu)**: a redesign of my university's service portal that I designed, built and pitched as a student.
-- **[TwiChat](https://github.com/SketchPiece/twi-chat)**: the real-time chat app I learned web development on, 2019–2021. Every version from the first Express and EJS one to the React rewrite is in the repo.
-- **[Twilight](https://github.com/SketchPiece/twilight)**: an end-to-end encrypted messenger on NestJS, Prisma and Socket.io, 2022–2023.
+- **[TwiChat → Twilight](https://github.com/SketchPiece/twi-chat)**: the chat app I learned web development on. It started in 2019 as Express and EJS, became a React app, and in 2022–2023 grew into an end-to-end encrypted messenger. Every version is on its own branch.
 - **[Project Equestria](https://github.com/SketchPiece/project-equestria)**: a Minecraft launcher I built for friends' modded server. It installs Java, checks and downloads the game files and mods, and updates itself.
 - **[FlowArc Studio](https://github.com/SketchPiece/flow-arc)**: website for the small studio I co-founded, designed in Figma and built by hand with Astro. [Live site](https://flow-arc.vercel.app).
 
