@@ -18,7 +18,6 @@ Lately I've been connecting my projects into one system, very much inspired by h
 - <img src="assets/icons/twist.png" width="20" height="20" align="top">&nbsp;**[Twist](https://github.com/SketchPiece/Twist)**: a focus timer with a kitchen-timer dial that locks your iPhone, iPad and Mac at once until time runs out.
 - <img src="assets/icons/draftwall.png" width="20" height="20" align="top">&nbsp;**[draftwall](https://github.com/SketchPiece/draft-wall)**: a wall for design mockups. Agents put screens on it, I leave sticky notes, they read them back and iterate.
 - <img src="assets/icons/sideshelf.png" width="20" height="20" align="top">&nbsp;**[Sideshelf](https://github.com/SketchPiece/Sideshelf)**: one command puts a fresh build of an iOS app on your iPhone, wherever you are.
-- <img src="assets/icons/pieces.png" width="20" height="20" align="top">&nbsp;**pieces** (private for now, in progress): my own little cloud for side projects. Every project gets its own address on `pieces.run`, and coding agents deploy them for me.
 - <img src="assets/icons/mail-triage.png" width="20" height="20" align="top">&nbsp;**[mail-triage](https://github.com/SketchPiece/mail-triage)** and **[ServerMode](https://github.com/SketchPiece/ServerMode)**: smaller pieces. One sorts an inbox for AI assistants, the other keeps a MacBook running as a server with the lid closed.
 
 #### Before AI
